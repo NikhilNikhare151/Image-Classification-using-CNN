@@ -1,9 +1,9 @@
-# Image Classification using CNN
+# Image Classification using ANN
 
-# Deep Learning | Convolutional Neural Networks (CNN) | Computer Vision
+# Deep Learning | ANN | Computer Vision
 
 # Overview
-This project implements an Image Classification model using Convolutional Neural Networks (CNNs). The model is trained to classify images into different categories using deep learning techniques.
+This project implements an Image Classification model using ANN. The model is trained to classify images into different categories using deep learning techniques.
 
 # Technologies & Tools Used
 * Python (TensorFlow, Keras, OpenCV, Pandas, NumPy)
