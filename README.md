@@ -7,6 +7,5 @@ This project implements an Image Classification model using ANN. The model is tr
 
 # Technologies & Tools Used
 * Python (TensorFlow, Keras, OpenCV, Pandas, NumPy)
-* Deep Learning Models (CNN, Transfer Learning)
-* Data Augmentation & Preprocessing
+* Deep Learning Models (Sequential, Dense, Flatten)
 * Data Visualization (Matplotlib, Seaborn)
